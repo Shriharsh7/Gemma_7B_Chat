@@ -1,2 +1,13 @@
-# Gemma_7B_Chat
-Deploying the Mistral-7B-Instruct-v0.2 model in Hugging Face Spaces Live demo:https://huggingface.co/spaces/Shriharsh/Gemma_7B_Chat
+---
+title: Gemma 7B Chat
+emoji: 💻
+colorFrom: pink
+colorTo: gray
+sdk: gradio
+sdk_version: 4.19.1
+app_file: app.py
+pinned: false
+license: mit
+---
+
+Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
